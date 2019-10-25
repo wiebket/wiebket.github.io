@@ -1,23 +1,24 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: Wiebke Toussaint
+description: 
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD researcher in the ICT research group of the 
+<a href="https://www.tudelft.nl/en/tpm/about-the-faculty/departments/engineering-systems-and-services/" target="_blank">Engineering Systems and Services</a> 
+department at the Technology, Policy and Managament faculty at the Technical University of Delft. I work under the supervision of <a href="http://homepage.tudelft.nl/8e79t/index.html" target="_blank">dr. Aaron Ding</a> and am promoted by 
+<a href="https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/full-professors/profdrir-mfwha-marijn-janssen/" target="_blank">Prof. dr. ir. Marijn Janssen</a>. 
+My research looks into the design of edge architectures for smart cyber-physical systems to realise large scale data processing and machine learning applications within distributed sensor networks. Our use cases focus primarily on smart grids.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my masters in computer science with a specialisation in applied artificial intelligence with distinction from the University of Cape Town under the supervision of 
+<a href="https://people.cs.uct.ac.za/~deshen/" target="_blank">Assoc. Prof. Deshen Moodley</a> and 
+[Prof. Tommie Meyer](https://people.cs.uct.ac.za/~tmeyer/prof-biography.html){:target="\_blank"}. 
+My masters work investigated clustering techniques for generating daily residential energy consumption patterns in a developing country context with a highly variable population. In particular, we explored how evaluation of unsupervised machine learning models can yield more useful results when traditional quantitative metrics are combined with qualitative measures derived through expert consultation.

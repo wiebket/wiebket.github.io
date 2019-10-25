@@ -53,6 +53,9 @@ $lime_green:        #B7D12A !default;
 $purple:            #B509AC !default;
 $pink:              #f92080 !default;
 $light-pink:        #ffdddd !default;
+$deep-purple:		#04060F !default;
+$nice-grey:			#A79C93 !default;
+$deep-red:			#C1403D !default;
 $yellow:            #efcc00 !default;
 
 $white:             #fff !default;
@@ -70,14 +73,14 @@ $darken-2:          rgba(#000,.125) !default;
 $darken-3:          rgba(#000,.25) !default;
 $darken-4:          rgba(#000,.5) !default;
 
-$theme-color:       $purple;
+$theme-color:       $deep-purple;
 $code-color:        $dark-gray;
-$text-color:        $mid-gray;
+$text-color:        $dark-gray;
 $background-color:  white;
 
 // Links
-$link-color:        $theme-color;
-$link-hover-color:  darken($theme-color, 40%);
+$link-color:        $deep-red;
+$link-hover-color:  $nice-grey;
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';
@@ -90,7 +93,7 @@ $space-3: 2rem !default;
 $space-4: 4rem !default;
 
 $horizontal-spacing-unit:       50px;
-$vertical-spacing-unit:         40px;
+$vertical-spacing-unit:         30px;
 $nav-height:                    56px;
 
 // Buttons
@@ -156,7 +159,7 @@ $footer-font-size: .75rem;
 
 /* portfolio tinkering */
 $img_spacing: 5px;
-$img-height: 275px;
+$img-height: 375px;
 $caption-font-size: 12px;
 $caption-color: #aaa;
 
