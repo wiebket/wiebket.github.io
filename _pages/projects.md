@@ -9,7 +9,7 @@ description:
 
 ## Big Data for Household Energy Insights
 
-The Big Data for Household Energy Insights project was housed at the Energy Research Centre at the University of Cape Town. The goals of the project were to provide strategic support and leadership to convene and mobilise key stakeholders towards building big data capabilities for domestic load research and to deliver technical data science and data stewardship activities in this regard. The project has delivered South Africa's first online, citeable datasets of <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS" target="_blank">Domestic Electrical Load</a> (DEL) studies in South Africa.
+The Big Data for Household Energy Insights project is housed at the Energy Research Centre at the University of Cape Town. The goals of the project are to provide strategic support and leadership to convene and mobilise key stakeholders towards building big data capabilities for domestic load research, and to deliver technical data science and stewardship activities in this regard. The project has delivered South Africa's first online datasets of <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS" target="_blank">Domestic Electrical Load</a> (DEL) studies.
 
 ---
 
