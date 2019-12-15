@@ -22,7 +22,7 @@ _Role: Project Lead, Data Scientist_
 
 ---
 
-<img class="col one first" style="padding: 10px; float: left" src="{{ site.baseurl }}/assets/img/ewbsa_logo.png" >
+[<img class="col one first" style="padding: 25px; float: left" src="{{ site.baseurl }}/assets/img/ewbsa_logo.png" >](../projects/2019_ewbsa.markdown)
 
 ## Engineers Without Borders South Africa
 
@@ -33,7 +33,7 @@ _Role: Project Lead, Data Scientist_
 ## Data for Water and Sanitation Infrastructure (Data4WASI) 
 
 #### 2019  
-<img class="col one first" style="float: right" src="{{ site.baseurl }}/assets/img/2019-06_Data4WASI_impact.png" >
+[<img class="col one first" style="float: right" src="{{ site.baseurl }}/assets/img/2019-06_Data4WASI_impact.png" >]()
 
 Data4WASI was conceptualised to address the critical state of South Africa's water and sanitation services. Municipalities have been facing severe challenges in delivering infrastructure and associated services that meet their residents' needs. The reasons are complex and include a shortage of skilled technical professionals such as engineers and project managers, difficult work environments and poor data capturing practices. Very few municipalities collect the data necessary for effective operations, maintenance and planning of infrastructure. 
 
