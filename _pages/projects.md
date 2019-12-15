@@ -22,6 +22,8 @@ _Role: Project Lead, Data Scientist_
 
 ---
 
+<img class="col half first" style="float: left" src="{{ site.baseurl }}/assets/img/ewbsa_logo.png" >
+
 ## Engineers Without Borders South Africa
 
 #### 2013 - 2019  
