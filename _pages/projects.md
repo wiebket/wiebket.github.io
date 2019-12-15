@@ -20,12 +20,12 @@ _Role: Project Lead, Data Scientist_
 #### Featured in:  
 <a href="https://plot.ly/resources/erc/" target="_blank">plot.ly Dash for Good blog</a>
 
+---
+
 ## Engineers Without Borders South Africa
 
 #### 2013 - 2019  
-<a href="https://www.ewbsa.org" target="_blank">Engineers Without Borders South Africa</a> (EWB-SA) is a non-profit organisation established in 2013 with a vision to position the engineering sector as a place where people can live their passion, unfold their potential and work with compassion. We belive that if young engineers are exposed to the daily lived experiences of South Africans and young engineers have the opportunity to apply their minds, hearts and hands to improving the lives of people in South Africa, then we will have engineers that love their work, that live their dream and that build our country, for all. 
-
-Since its establishment, EWB-SA has been focused on delivering programmes for youth leadership and engineering education, as well as social impact projects through our national chapter network. In 2018 EWB-SA established a unique partnership with EWB-UK and EWB-USA to collaborate on developing the 2019/20 <a href="https://www.ewb-uk.org/the-work/design-challenges/engineering-for-people-design-challenge/" target="_blank">Engineering for People Design Challenge</a> and bring a first-of-its-kind engineering education curriculum transformation programme to South African universities.
+<a href="https://www.ewbsa.org" target="_blank">Engineers Without Borders South Africa</a> (EWB-SA) is a non-profit organisation established in 2013 with a mission to empower engineers to empower communities. Since its establishment, EWB-SA has been focused on delivering programmes for youth leadership and engineering education, as well as social impact projects through our national chapter network. In 2018 EWB-SA established a unique partnership with EWB-UK and EWB-USA to collaborate on expanding the <a href="https://www.ewb-uk.org/the-work/design-challenges/engineering-for-people-design-challenge/" target="_blank">Engineering for People Design Challenge</a> to an international audience while delivering a first-of-its-kind engineering education curriculum transformation programme to South African universities.
 
 _Role: Co-founder, Director, CEO_  
 
@@ -39,6 +39,8 @@ Engineering Information Foundation
 #### Featured in:  
 <a href="https://www.news.uct.ac.za/article/-2015-09-28-engineers-who-break-the-mould" target="_blank">UCT News</a>  
 <a href="https://issuu.com/risingstarannual/docs/risingstar_annual_2016/48" target="_blank">Rising Star Annual 2016</a>
+
+---
 
 ## Data for Water and Sanitation Infrastructure (Data4WASI) 
 
@@ -59,6 +61,7 @@ _Role: Programme Co-lead_
 #### Featured in: 
 <a href="https://www.news.uct.ac.za/article/-2019-08-21-ebe-students-ultimate-community-development-work" target="_blank">UCT News</a>
 
+---
 
 ## Deep Learning for Echocardiogram Analysis
 #### 2019  
@@ -67,7 +70,7 @@ The _Deep Learning for Echocardiogram Analysis_ code base was developed and open
 
 Echocardiograms are ultrasound images of the heart, that are lower in cost and quicker to perform than other imaging techniques such as MR images and CT scans. They are thus the most frequently used cardiac imaging technique for preventative screenings and ongoing monitoring of heart conditions. Cardiologists spend a significant amount of time analysing echocardiograms and reporting on the results. Many of these analytical studies are for people with normal heart functioning that require no further medical intervention. Automating the identification of normal heart function from echocardiogram images can potentially reduce the time that cardiologists spend in front of computers and help them increase the amount of time spent with ill patients that need them most.
 
-_Responsible: end-to-end pipeline_
+_Role: end-to-end pipeline_
 
 #### Open source  
 <a href="https://github.com/dssg/usal_echo_public" target="_blank">https://github.com/dssg/usal_echo_public</a>
