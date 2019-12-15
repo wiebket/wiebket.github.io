@@ -4,21 +4,12 @@ permalink: /projects/
 title: Projects
 description: 
 ---
+
+[<img class="col one first" style="padding-left: 25px; padding-right: 25px; float: left" src="{{ site.baseurl }}/assets/img/del_logo.png" >](../projects/2019_household_energy_insights.markdown)
+
 ## Big Data for Household Energy Insights
 
-#### 2017 - 2019  
-The Big Data for Household Energy Insights project was housed at the Energy Research Centre at the University of Cape Town. The goals of the project were to provide strategic support and leadership to convene and mobilise key stakeholders towards building big data capabilities for domestic load research and to deliver technical data science and data stewardship activities in this regard.
-
-The project has delivered South Africa's first online, citeable datasets of <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS" target="_blank">Domestic Electrical Load</a> (DEL) studies in South Africa. The published DEL datasets capture valuable household energy consumption and survey data that covers over two decades of research gathered under the NRS Load Research Programme. Hosted securely at DataFirst, Africa's only internationally accredited data archive, the datasets are now available to researchers for non-commercial use. The DEL datasets cover the period of major electrification in South Africa from 1994 to 2014 and span across five climatic zones, two time zones and various population groups. They are unique on the African continent and their release marks the pioneering step that key stakeholders - namely Eskom, a group of municipal stakeholders, the University of Cape Town, Stellenbosch University, professionals and specialists working in the load research space - have taken to advance and open data-driven energy research to a broader audience through digitisation and open data. Together with the five DEL datasets that have been published, the project has released two open source python packages to facilitate data access and processing.
-
-_Role: Project Lead, Data Scientist_
-
-#### Supported by:  
-<a href="https://www.sanedi.org.za/" target="_blank">South African National Energy Development Initiative</a>
-
-#### Featured in:  
-<a href="https://www.paperturn-view.com/?pid=NjY66984&v=1.1&p=24">UCT eResearch Report 2019</a>
-<a href="https://plot.ly/resources/erc/" target="_blank">plot.ly Dash for Good blog</a>
+The Big Data for Household Energy Insights project was housed at the Energy Research Centre at the University of Cape Town. The goals of the project were to provide strategic support and leadership to convene and mobilise key stakeholders towards building big data capabilities for domestic load research and to deliver technical data science and data stewardship activities in this regard. The project has delivered South Africa's first online, citeable datasets of <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS" target="_blank">Domestic Electrical Load</a> (DEL) studies in South Africa.
 
 ---
 
@@ -30,24 +21,11 @@ _Role: Project Lead, Data Scientist_
 
 ---
 
-## Data for Water and Sanitation Infrastructure (Data4WASI) 
+[<img class="col one first" style="padding-left: 25px; padding-right: 25px; float: left" src="{{ site.baseurl }}/assets/img/data4mia_logo.png" >](../projects/2019_data4mia.markdown)
 
-#### 2019  
-[<img class="col one first" style="float: right" src="{{ site.baseurl }}/assets/img/2019-06_Data4WASI_impact.png" >]()
-
-Data4WASI was conceptualised to address the critical state of South Africa's water and sanitation services. Municipalities have been facing severe challenges in delivering infrastructure and associated services that meet their residents' needs. The reasons are complex and include a shortage of skilled technical professionals such as engineers and project managers, difficult work environments and poor data capturing practices. Very few municipalities collect the data necessary for effective operations, maintenance and planning of infrastructure. 
+## Data for Municipal Infrastructure Assets (Data4MIA)
 
 Data4WASI is a student internship programme that has been designed to assist local government with collecting and updating data required for successful management of water and sanitation infrastructure assets. The programme exposes students to the technology, complex systems, software tools and challenges that local government uses and encounters on a daily basis to deliver critical infrastructure and services to the people of South Africa. The programme was developed in collaboartion with the Municipal Infrastructure Support Agency and has a direct impact on data management for Water Service Authorities in rural and distressed municipalities.
-
-After its initial pilot, the programme has been incorporated into Engineers Without Borders South Africa as _Data for Municipal Infrastructure Assets (Data4MIA)_.
-
-_Role: Programme Co-lead_
-
-#### Supported by:
-<a href="https://www.shuttleworthfoundation.org/fellows/flash-grants/" target="_blank">Shuttleworth Foundation Flash Grant</a>
-
-#### Featured in: 
-<a href="https://www.news.uct.ac.za/article/-2019-08-21-ebe-students-ultimate-community-development-work" target="_blank">UCT News</a>
 
 ---
 
