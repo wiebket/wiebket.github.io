@@ -13,14 +13,6 @@ The Big Data for Household Energy Insights project is housed at the Energy Resea
 
 ---
 
-[<img class="col one first" style="padding-left: 25px; padding-right: 25px; float: left" src="{{ site.baseurl }}/assets/img/ewbsa_logo.png" >](../projects/2019_ewbsa.markdown)
-
-## Engineers Without Borders South Africa
-
-<a href="https://www.ewbsa.org" target="_blank">Engineers Without Borders South Africa</a> (EWB-SA) is a non-profit organisation established in 2013 with a mission to empower engineers to empower communities. Since its establishment, EWB-SA has been focused on delivering programmes for youth leadership and engineering education, as well as social impact projects through our national chapter network. In 2018 EWB-SA established a unique partnership with EWB-UK and EWB-USA to collaborate on expanding the <a href="https://www.ewb-uk.org/the-work/design-challenges/engineering-for-people-design-challenge/" target="_blank">Engineering for People Design Challenge</a> to an international audience while delivering a first-of-its-kind engineering education curriculum transformation programme to South African universities. [2013 - 2019]
-
----
-
 [<img class="col one first" style="padding-left: 25px; padding-right: 25px; float: left" src="{{ site.baseurl }}/assets/img/data4mia_logo.png" >](../projects/2019_data4mia.markdown)
 
 ## Data for Municipal Infrastructure Assets (Data4MIA)
@@ -34,3 +26,11 @@ Data4MIA is a student internship programme that has been designed to assist loca
 ## Deep Learning for Echocardiogram Analysis
 
 The _Deep Learning for Echocardiogram Analysis_ code base was developed and open-sourced during the 2019 <a href="http://www.dssgfellowship.org/project/increasing_efficiency_heart_function_through_echocardiography/" target="_blank"> Data Science for Social Good</a> Fellowship programme. The project automates the analysis of echocardiogram images to detect normal heart functioning and is available on <a href="https://github.com/dssg/usal_echo_public" target="_blank">github</a>. [2019]
+
+---
+
+[<img class="col one first" style="padding-left: 25px; padding-right: 25px; float: left" src="{{ site.baseurl }}/assets/img/ewbsa_logo.png" >](../projects/2019_ewbsa.markdown)
+
+## Engineers Without Borders South Africa
+
+<a href="https://www.ewbsa.org" target="_blank">Engineers Without Borders South Africa</a> (EWB-SA) is a non-profit organisation established in 2013 with a mission to empower engineers to empower communities. Since its establishment, EWB-SA has been focused on delivering programmes for youth leadership and engineering education, as well as social impact projects through our national chapter network. In 2018 EWB-SA established a unique partnership with EWB-UK and EWB-USA to collaborate on expanding the <a href="https://www.ewb-uk.org/the-work/design-challenges/engineering-for-people-design-challenge/" target="_blank">Engineering for People Design Challenge</a> to an international audience while delivering a first-of-its-kind engineering education curriculum transformation programme to South African universities. [2013 - 2019]
