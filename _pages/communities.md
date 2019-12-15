@@ -17,17 +17,22 @@ is an initiative by the U.S. Department of State's Bureau of International and C
 ### Young Africa Leadership Initiative
 The <a href="https://www.africaleadership.net/about/young-africa-leadership-initiative-yali/" target="_blank">Young Africa Leadership Initiative</a> (YALI) is premised on the purpose of the <a href="https://www.africaleadership.net" target="_blank">Africa Leadership Initiative</a>. YALI's mandate is to develop the next generation of values-based young African leaders who are prepared to be significant and be co-creators of a good society. I participated in YALI in 2016-17.
 
+---
+
 ## Industry Recognition
 * __2014:__ _Special Alumni Award_, Faculty of Engineering & the Built Environment, University of Cape Town
 * __2014:__ _Rising Star Award Winner_, Public & Private Services category
 * __2013:__ _Global Award - Knowledge Management_, Hatch Consulting Engineering
 * __2013:__ _Excellence in Engineeing & Technology Award Winner "Most promising young female engineer"_, Women in Engineering & the Built Environment (WiEBE)
 
+---
 
 ## Committees
 * __2017 - 19__: Executive Committee, Engineers Without Borders International
 * __2013 - 19__: Board of Directors, Engineers Without Borders South Africa
 * __2018 - 19__: Organising Committee, R-Ladies Cape Town 
+
+---
 
 ## Invited Talks
 * __DataHack for Financial Inclusion__, _Keynote at Launch_, Cape Town, South Africa, 10 April 2019.
