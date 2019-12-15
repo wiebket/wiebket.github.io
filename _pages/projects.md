@@ -26,8 +26,8 @@ Data4MIA is a student internship programme that has been designed to assist loca
 ## Deep Learning for Echocardiogram Analysis
 
 The _Deep Learning for Echocardiogram Analysis_ code base was developed and open-sourced during the 2019 <a href="http://www.dssgfellowship.org/project/increasing_efficiency_heart_function_through_echocardiography/" target="_blank"> Data Science for Social Good</a> Fellowship programme. The project automates the analysis of echocardiogram images to detect normal heart functioning and is available on <a href="https://github.com/dssg/usal_echo_public" target="_blank">github</a>. [2019]  
-</br>
-
+&nbsp  
+&nbsp  
 ---
 
 [<img class="col one first" style="padding-left: 25px; padding-right: 25px; float: left" src="{{ site.baseurl }}/assets/img/ewbsa_logo.png" >](../projects/2019_ewbsa.markdown)
