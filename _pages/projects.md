@@ -5,7 +5,7 @@ title: Projects
 description: 
 ---
 
-[<img class="col one first" style="padding-left: 25px; padding-right: 25px; float: left" src="{{ site.baseurl }}/assets/img/del_logo.png" >](../projects/2019_household_energy_insights.markdown)
+[<img class="col one first" style="padding-left: 20px; padding-right: 25px; float: left" src="{{ site.baseurl }}/assets/img/del_logo.png" >](../projects/2019_household_energy_insights.markdown)
 
 ## Big Data for Household Energy Insights
 
