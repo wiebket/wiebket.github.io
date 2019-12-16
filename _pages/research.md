@@ -9,11 +9,8 @@ description:
 * Toussaint, Wiebke. __Evaluation of Clustering Techniques for Generating Household Energy Consumption Patterns in a Developing Country Context__ (Masters thesis)
 
 ### Datasets
-#### Originator
 * Toussaint, Wiebke. __Domestic Electrical Load Metering, Hourly Data 1994-2014__ [dataset]. version 1. Johannesburg: SANEDI [funders]. Cape Town: UCT [producers], 2014. Cape Town: DataFirst [distributor], 2019. 10.25828/56nh-fw77 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/759" target="_blank">[online access]</a> 
 * Toussaint, Wiebke. __Domestic Electrical Load Survey - Key Variables 1994-2014__ [dataset]. version 1. Johannesburg: SANEDI [funders]. Cape Town: UCT Energy Research Centre [producers], 2014. Cape Town: DataFirst [distributor], 2019. 10.25828/mf8s-hh79 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/758" target="_blank">[online access]</a> 
-
-#### Curator
 * Eskom, Stellenbosch University, University of Cape Town. __Domestic Electrical Load Metering Data 1994-2014__ [dataset]. version 1. Johannesburg: Eskom, Cape Town: UCT, Stellenbosch: US [producers], 2014. Cape Town: DataFirst [distributor], 2019.10.25828/p3k7-r965 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/760" target="_blank">[online access]</a> 
 * Eskom, Stellenbosch University, University of Cape Town. __Domestic Electrical Load Survey 1994-2014__ [dataset]. version 1. Johannesburg: Eskom, Cape Town: UCT, Stellenbosch: US [producers], 2014. Cape Town: DataFirst [distributor], 2019. 10.25828/kzer-gd88 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/755" target="_blank">[online access]</a> 
 * Eskom, Stellenbosch University, University of Cape Town. __Domestic Electrical Load Survey-Secure Data 1994-2014__ [dataset]. version 1. Johannesburg: Eskom, Cape Town: UCT, Stellenbosch: US [producers], 2014. Cape Town: DataFirst [distributor], 2019.10.25828/7jtv-mc31 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/757" target="_blank">[online access]</a> 
