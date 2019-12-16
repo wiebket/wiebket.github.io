@@ -6,8 +6,8 @@ description:
 ---
 
 ## Publications
-* Toussaint, Wiebke. __Evaluation of Clustering Techniques for Generating Household Energy Consumption Patterns in a Developing Country Context__, 2019. (Masters thesis)
 * Toussaint, W. and Moodley, D. __Comparison of Clustering Techniques for Residential Load Profiles in South Africa__. In: _CEUR Workshop Proceedings Series_, 2019. (accepted to the South African Forum for AI Research)
+* Toussaint, Wiebke. __Evaluation of Clustering Techniques for Generating Household Energy Consumption Patterns in a Developing Country Context__, 2019. (Masters thesis)
 
 ### Datasets
 * Toussaint, Wiebke. __Domestic Electrical Load Metering, Hourly Data 1994-2014__ [dataset]. version 1. Johannesburg: SANEDI [funders]. Cape Town: UCT [producers], 2014. Cape Town: DataFirst [distributor], 2019. 10.25828/56nh-fw77 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/759" target="_blank">[online access]</a> 
