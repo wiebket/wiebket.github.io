@@ -33,7 +33,7 @@ description:
 
 ---
 
-## Summer Schools
+## Summer/Winter Schools
 
 * __2018__: <a href="https://seams-workshop.gitlab.io/participants/2018/" target="_blank">Software Engineering for Applied Mathematical Sciences</a>, Cape Town, South Africa.
 * __2018__: <a href="http://www.deeplearningindaba.com/" target="_blank">Deep Learning Indaba</a>, Stellenbosch, South Africa. <a href="../assets/pdf/2018_dlindaba_poster.pdf" target="_blank">[poster award]</a>
