@@ -36,5 +36,7 @@ description:
 ## Summer Schools
 
 * __2018__: <a href="https://seams-workshop.gitlab.io/participants/2018/" target="_blank">Software Engineering for Applied Mathematical Sciences</a>, Cape Town, South Africa
+* __2018__: <a href="http://www.deeplearningindaba.com/" target="_blank">Deep Learning Indaba</a>, Stellenbosch, South Africa [poster award](../assets/pdf/2018_dlindaba_poster.pdf)
+* __2017__: <a href="http://www.deeplearningindaba.com/" target="_blank">Deep Learning Indaba</a>, Johannesburg, South Africa 
 * __2016__: <a href="https://inscida.wixsite.com/inscida2016" target="_blank">Workshop on Statistics and Data Science in Industry</a>, Cape Town, South Africa
 
