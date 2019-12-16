@@ -24,7 +24,7 @@ description:
 
 ## Seminars, Workshops & Talks
 
-* __Shedding light on residential energy consumer behaviour in South Africa__, _SAIEE Load Research Chapter Webinar_, 30 July 2019 <a href="https://youtu.be/ULBfbPN5i7I" target="_blank">[video]</a>   
+* __Shedding light on residential energy consumer behaviour in South Africa__, _SAIEE Load Research Chapter Webinar_, 30 July 2019. <a href="https://youtu.be/ULBfbPN5i7I" target="_blank">[video]</a>   
 * __Evaluation of clustering techniques for generating household energy consumption patterns in a developing country__, _eResearch Africa 2019_, Cape Town, South Africa, 18 April 2019.
 * __Unsupervised Machine Learning 101__, _Deep Learning IndabaX_, Durban, South Africa, 16 April 2019. <a href="https://youtu.be/E-Q9PWs2SCk" target="_blank">[video]</a>  
 * __Building, managing and maintaining data and knowledge-sharing ecosystems for medium-sized research centres__, _SciDataCon-IDW 2018_, Gaberone, Botswana, 6 November 2018.  
@@ -35,8 +35,8 @@ description:
 
 ## Summer Schools
 
-* __2018__: <a href="https://seams-workshop.gitlab.io/participants/2018/" target="_blank">Software Engineering for Applied Mathematical Sciences</a>, Cape Town, South Africa
-* __2018__: <a href="http://www.deeplearningindaba.com/" target="_blank">Deep Learning Indaba</a>, Stellenbosch, South Africa <a href="../assets/pdf/2018_dlindaba_poster.pdf" target="_blank">[poster]</a>
-* __2017__: <a href="http://www.deeplearningindaba.com/" target="_blank">Deep Learning Indaba</a>, Johannesburg, South Africa 
-* __2016__: <a href="https://inscida.wixsite.com/inscida2016" target="_blank">Workshop on Statistics and Data Science in Industry</a>, Cape Town, South Africa
+* __2018__: <a href="https://seams-workshop.gitlab.io/participants/2018/" target="_blank">Software Engineering for Applied Mathematical Sciences</a>, Cape Town, South Africa.
+* __2018__: <a href="http://www.deeplearningindaba.com/" target="_blank">Deep Learning Indaba</a>, Stellenbosch, South Africa. <a href="../assets/pdf/2018_dlindaba_poster.pdf" target="_blank">[poster award]</a>
+* __2017__: <a href="http://www.deeplearningindaba.com/" target="_blank">Deep Learning Indaba</a>, Johannesburg, South Africa. 
+* __2016__: <a href="https://inscida.wixsite.com/inscida2016" target="_blank">Workshop on Statistics and Data Science in Industry</a>, Cape Town, South Africa.
 
