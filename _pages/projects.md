@@ -21,7 +21,7 @@ Data4MIA is a student internship programme that has been designed to assist loca
 
 ---
 
-[<img class="col one first" style="padding-left: 25px; padding-right: 25px; float: left" src="{{ site.baseurl }}/assets/img/ewbsa_logo.png" >](../projects/2019_ewbsa.markdown)
+[<img class="col one first" style="padding-left: 25px; padding-right: 30px; float: left" src="{{ site.baseurl }}/assets/img/ewbsa_logo.png" >](../projects/2019_ewbsa.markdown)
 
 ## Engineers Without Borders South Africa
 
@@ -29,7 +29,7 @@ Data4MIA is a student internship programme that has been designed to assist loca
 
 ---
 
-[<img class="col one first" style="padding-left: 25px; padding-right: 25px; float: left" src="{{ site.baseurl }}/assets/img/dssg_echo_logo.jpg" >](../projects/2019_dssg_echo.markdown)
+[<img class="col one first" style="padding-left: 15px; padding-right: 25px; float: left" src="{{ site.baseurl }}/assets/img/dssg_echo_logo.jpg" >](../projects/2019_dssg_echo.markdown)
 
 ## Deep Learning for Echocardiogram Analysis
 
