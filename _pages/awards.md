@@ -7,7 +7,6 @@ description:
 
 ## Academic Scholarships and Awards
 
-* __2018__: *Poster Award*, <a href="http://www.deeplearningindaba.com/" target="_blank">Deep Learning Indaba</a>, Stellenbosch, South Africa
 * __2017 - 18__: *Masters Scholarship*, Department of Science and Technology - Centre for AI Research 
 * __2009__: *Class Medal*, Department of Mechanical Engineering, University of Cape Town
 * __2008 - 10__: *Industry Bursary*, Hatch
