@@ -9,7 +9,7 @@ description:
 * Toussaint, W. and Moodley, D. __An Evaluation Framework for Clustering Explainable Household Energy Consumption Patterns.__ (2020) (submitted)
 * Toussaint, W. and Moodley, D. __Comparison of Clustering Techniques for Residential Load Profiles in South Africa.__ Workshop Proceedings of the South African Forum for AI Research (2019).
 * Toussaint, Wiebke. __Evaluation of Clustering Techniques for Generating Household Energy Consumption Patterns in a Developing Country Context.__ (2019). (Masters thesis)
-* Toussaint, W. __Training engineerings for local engineering excellence.__ Journal of Humanitarian Engineering 7, 1. (2019). 
+* Toussaint, W. __Training engineerings for local engineering excellence.__ Journal of Humanitarian Engineering 7, 1. (2019).<a href="https://www.researchgate.net/publication/336662390_Journal_of_Humanitarian_Engineering_Guest_Editorial" target="_blank">[online access]</a> 
 
 ### Datasets
 * Toussaint, Wiebke. __Domestic Electrical Load Metering, Hourly Data 1994-2014__ [dataset]. version 1. Johannesburg: SANEDI [funders]. Cape Town: UCT [producers], 2014. Cape Town: DataFirst [distributor], 2019. 10.25828/56nh-fw77 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/759" target="_blank">[online access]</a> 
