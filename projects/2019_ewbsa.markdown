@@ -21,10 +21,10 @@ Engineering Information Foundation
 
 
 
-<div class="img_row">
+<!--<div class="img_row">
     <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
     <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+</div>-->
