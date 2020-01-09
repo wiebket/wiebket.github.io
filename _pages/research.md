@@ -6,8 +6,10 @@ description:
 ---
 
 ## Publications
-* Toussaint, W. and Moodley, D. __Comparison of Clustering Techniques for Residential Load Profiles in South Africa__. In: _CEUR Workshop Proceedings Series_, 2019. (accepted to the South African Forum for AI Research)
-* Toussaint, Wiebke. __Evaluation of Clustering Techniques for Generating Household Energy Consumption Patterns in a Developing Country Context__, 2019. (Masters thesis)
+* Toussaint, W. and Moodley, D. __An Evaluation Framework for Clustering Explainable Household Energy Consumption Patterns.__ (2020) (submitted)
+* Toussaint, W. and Moodley, D. __Comparison of Clustering Techniques for Residential Load Profiles in South Africa.__ Workshop Proceedings of the South African Forum for AI Research (2019).
+* Toussaint, Wiebke. __Evaluation of Clustering Techniques for Generating Household Energy Consumption Patterns in a Developing Country Context.__ (2019). (Masters thesis)
+* Toussaint, W. __Training engineerings for local engineering excellence.__ Journal of Humanitarian Engineering 7, 1. (2019). 
 
 ### Datasets
 * Toussaint, Wiebke. __Domestic Electrical Load Metering, Hourly Data 1994-2014__ [dataset]. version 1. Johannesburg: SANEDI [funders]. Cape Town: UCT [producers], 2014. Cape Town: DataFirst [distributor], 2019. 10.25828/56nh-fw77 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/759" target="_blank">[online access]</a> 
@@ -17,6 +19,7 @@ description:
 * Eskom, Stellenbosch University, University of Cape Town. __Domestic Electrical Load Survey-Secure Data 1994-2014__ [dataset]. version 1. Johannesburg: Eskom, Cape Town: UCT, Stellenbosch: US [producers], 2014. Cape Town: DataFirst [distributor], 2019.10.25828/7jtv-mc31 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/757" target="_blank">[online access]</a> 
 
 ### Software
+* <a href="https://github.com/dssg/usal_echo_public" target="_blank">usal_echo</a>: python data science pipeline to automate echocardiogram analysis
 * <a href="https://github.com/wiebket/delretrieve" target="_blank">delretrieve</a>: python package to facilitate data retrieval from the Domestic Electrical Load (DEL) SQL server database
 * <a href="https://github.com/wiebket/delprocess" target="_blank">delprocess</a>: python package to facilitate DEL data processing 
 
@@ -24,6 +27,7 @@ description:
 
 ## Seminars, Workshops & Talks
 
+* __A primer on edge intelligence for smart grids__, _SAIEE National Conference_ Johannesburg, South Africa, 28 November 2019.
 * __Shedding light on residential energy consumer behaviour in South Africa__, _SAIEE Load Research Chapter Webinar_, 30 July 2019. <a href="https://youtu.be/ULBfbPN5i7I" target="_blank">[video]</a>   
 * __Evaluation of clustering techniques for generating household energy consumption patterns in a developing country__, _eResearch Africa 2019_, Cape Town, South Africa, 18 April 2019.
 * __Unsupervised Machine Learning 101__, _Deep Learning IndabaX_, Durban, South Africa, 16 April 2019. <a href="https://youtu.be/E-Q9PWs2SCk" target="_blank">[video]</a>  
