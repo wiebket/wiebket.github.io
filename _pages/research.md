@@ -20,8 +20,9 @@ description:
 
 ### Software
 * <a href="https://github.com/dssg/usal_echo_public" target="_blank">usal_echo</a>: python data science pipeline to automate echocardiogram analysis
-* Toussaint, Wiebke. _delretrieve_: Data Retrieval of the South African Domestic Electrical Load Study, version 1.01. Zenodo. <a href="https://zenodo.org/record/3605425" target="_blank"</a> (2019).
-* Toussaint, Wiebke. _delprocess_: Data Processing of the South African Domestic Electrical Load Study, version 1.01. Zenodo. <a href="https://zenodo.org/record/3605422" target="_blank"</a> (2019).
+* Toussaint, Wiebke. _delretrieve_: Data Retrieval of the South African Domestic Electrical Load Study, version 1.01. Zenodo. <a href="https://zenodo.org/record/3605425" target="_blank">https://zenodo.org/record/3605425</a> (2019).
+* Toussaint, Wiebke. _delprocess_: Data Processing of the South African Domestic Electrical Load Study, version 1.01. Zenodo. <a href="https://zenodo.org/record/3605422" target="_blank">https://zenodo.org/record/3605422</a> (2019).
+
 ---
 
 ## Seminars, Workshops & Talks
