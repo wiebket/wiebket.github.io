@@ -6,23 +6,22 @@ description:
 ---
 
 ## Publications
-* Toussaint, W. and Moodley, D. __An Evaluation Framework for Clustering Explainable Household Energy Consumption Patterns.__ (2020) (submitted)
-* Toussaint, W. and Moodley, D. __Comparison of Clustering Techniques for Residential Load Profiles in South Africa.__ Workshop Proceedings of the South African Forum for AI Research (2019).
-* Toussaint, Wiebke. __Evaluation of Clustering Techniques for Generating Household Energy Consumption Patterns in a Developing Country Context.__ (2019). (Masters thesis)
-* Toussaint, W. __Training engineerings for local engineering excellence.__ Journal of Humanitarian Engineering 7, 1. (2019).<a href="https://www.researchgate.net/publication/336662390_Journal_of_Humanitarian_Engineering_Guest_Editorial" target="_blank">[online access]</a> 
+* Toussaint, W. and Moodley, D. _An Evaluation Framework for Clustering Explainable Household Energy Consumption Patterns._ (2020) (submitted)
+* Toussaint, W. and Moodley, D. _Comparison of Clustering Techniques for Residential Load Profiles in South Africa._ Workshop Proceedings of the South African Forum for AI Research (2019).
+* Toussaint, Wiebke. _Evaluation of Clustering Techniques for Generating Household Energy Consumption Patterns in a Developing Country Context._ (2019). (Masters thesis)
+* Toussaint, W. _Training engineerings for local engineering excellence._ Journal of Humanitarian Engineering 7, 1. (2019).<a href="https://www.researchgate.net/publication/336662390_Journal_of_Humanitarian_Engineering_Guest_Editorial" target="_blank">[online access]</a> 
 
 ### Datasets
-* Toussaint, Wiebke. __Domestic Electrical Load Metering, Hourly Data 1994-2014__ [dataset]. version 1. Johannesburg: SANEDI [funders]. Cape Town: UCT [producers], 2014. Cape Town: DataFirst [distributor], 2019. 10.25828/56nh-fw77 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/759" target="_blank">[online access]</a> 
-* Toussaint, Wiebke. __Domestic Electrical Load Survey - Key Variables 1994-2014__ [dataset]. version 1. Johannesburg: SANEDI [funders]. Cape Town: UCT Energy Research Centre [producers], 2014. Cape Town: DataFirst [distributor], 2019. 10.25828/mf8s-hh79 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/758" target="_blank">[online access]</a> 
-* Eskom, Stellenbosch University, University of Cape Town. __Domestic Electrical Load Metering Data 1994-2014__ [dataset]. version 1. Johannesburg: Eskom, Cape Town: UCT, Stellenbosch: US [producers], 2014. Cape Town: DataFirst [distributor], 2019.10.25828/p3k7-r965 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/760" target="_blank">[online access]</a> 
-* Eskom, Stellenbosch University, University of Cape Town. __Domestic Electrical Load Survey 1994-2014__ [dataset]. version 1. Johannesburg: Eskom, Cape Town: UCT, Stellenbosch: US [producers], 2014. Cape Town: DataFirst [distributor], 2019. 10.25828/kzer-gd88 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/755" target="_blank">[online access]</a> 
-* Eskom, Stellenbosch University, University of Cape Town. __Domestic Electrical Load Survey-Secure Data 1994-2014__ [dataset]. version 1. Johannesburg: Eskom, Cape Town: UCT, Stellenbosch: US [producers], 2014. Cape Town: DataFirst [distributor], 2019.10.25828/7jtv-mc31 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/757" target="_blank">[online access]</a> 
+* Toussaint, Wiebke. _Domestic Electrical Load Metering, Hourly Data 1994-2014_ [dataset]. version 1. Johannesburg: SANEDI [funders]. Cape Town: UCT [producers], 2014. Cape Town: DataFirst [distributor], 2019. 10.25828/56nh-fw77 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/759" target="_blank">[online access]</a> 
+* Toussaint, Wiebke. _Domestic Electrical Load Survey - Key Variables 1994-2014_ [dataset]. version 1. Johannesburg: SANEDI [funders]. Cape Town: UCT Energy Research Centre [producers], 2014. Cape Town: DataFirst [distributor], 2019. 10.25828/mf8s-hh79 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/758" target="_blank">[online access]</a> 
+* Eskom, Stellenbosch University, University of Cape Town. _Domestic Electrical Load Metering Data 1994-2014_ [dataset]. version 1. Johannesburg: Eskom, Cape Town: UCT, Stellenbosch: US [producers], 2014. Cape Town: DataFirst [distributor], 2019.10.25828/p3k7-r965 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/760" target="_blank">[online access]</a> 
+* Eskom, Stellenbosch University, University of Cape Town. _Domestic Electrical Load Survey 1994-2014_ [dataset]. version 1. Johannesburg: Eskom, Cape Town: UCT, Stellenbosch: US [producers], 2014. Cape Town: DataFirst [distributor], 2019. 10.25828/kzer-gd88 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/755" target="_blank">[online access]</a> 
+* Eskom, Stellenbosch University, University of Cape Town. _Domestic Electrical Load Survey-Secure Data 1994-2014_ [dataset]. version 1. Johannesburg: Eskom, Cape Town: UCT, Stellenbosch: US [producers], 2014. Cape Town: DataFirst [distributor], 2019.10.25828/7jtv-mc31 <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/757" target="_blank">[online access]</a> 
 
 ### Software
 * <a href="https://github.com/dssg/usal_echo_public" target="_blank">usal_echo</a>: python data science pipeline to automate echocardiogram analysis
-* <a href="https://github.com/wiebket/delretrieve" target="_blank">delretrieve</a>: python package to facilitate data retrieval from the Domestic Electrical Load (DEL) SQL server database
-* <a href="https://github.com/wiebket/delprocess" target="_blank">delprocess</a>: python package to facilitate DEL data processing 
-
+* Toussaint, Wiebke. _delretrieve_: Data Retrieval of the South African Domestic Electrical Load Study, version 1.01. Zenodo. <a href="https://zenodo.org/record/3605425" target="_blank"</a> (2019).
+* Toussaint, Wiebke. _delprocess_: Data Processing of the South African Domestic Electrical Load Study, version 1.01. Zenodo. <a href="https://zenodo.org/record/3605422" target="_blank"</a> (2019).
 ---
 
 ## Seminars, Workshops & Talks
