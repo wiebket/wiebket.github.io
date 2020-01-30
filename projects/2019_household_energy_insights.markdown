@@ -14,5 +14,5 @@ The project has delivered South Africa's first online, citeable datasets of <a h
 <a href="https://www.sanedi.org.za/" target="_blank">South African National Energy Development Initiative</a>
 
 ### Featured in:  
-<a href="https://www.paperturn-view.com/?pid=NjY66984&v=1.1&p=24">UCT eResearch Report 2019</a>
+<a href="https://www.paperturn-view.com/?pid=NjY66984&v=1.1&p=24">UCT eResearch Report 2019</a>  
 <a href="https://plot.ly/resources/erc/" target="_blank">plot.ly Dash for Good blog</a>
