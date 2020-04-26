@@ -13,16 +13,16 @@ description:
 * Toussaint, Wiebke. _Training engineerings for local engineering excellence._ Journal of Humanitarian Engineering 7, 1. doi:<a href="https://www.researchgate.net/publication/336662390_Journal_of_Humanitarian_Engineering_Guest_Editorial" target="_blank">10.36479/jhe.v7i1.159</a> (2019).
 
 ### Datasets
-* Toussaint, Wiebke. _Domestic Electrical Load Metering, Hourly Data 1994-2014_ [dataset]. version 1. Johannesburg: SANEDI [funders]. Cape Town: UCT [producers], 2014. Cape Town: DataFirst [distributor], 2019. <a href="https://doi.org/10.25828/56nh-fw77" target="_blank">https://doi.org/10.25828/56nh-fw77</a> 
-* Toussaint, Wiebke. _Domestic Electrical Load Survey - Key Variables 1994-2014_ [dataset]. version 1. Johannesburg: SANEDI [funders]. Cape Town: UCT Energy Research Centre [producers], 2014. Cape Town: DataFirst [distributor], 2019. <a href="https://doi.org/10.25828/mf8s-hh79" target="_blank">https://doi.org/10.25828/mf8s-hh79</a> 
-* Eskom, Stellenbosch University, University of Cape Town. _Domestic Electrical Load Metering Data 1994-2014_ [dataset]. version 1. Johannesburg: Eskom, Cape Town: UCT, Stellenbosch: US [producers], 2014. Cape Town: DataFirst [distributor], 2019. <a href="https://doi.org/10.25828/p3k7-r965" target="_blank">https://doi.org/10.25828/p3k7-r965</a> 
+* Toussaint, Wiebke. _Domestic Electrical Load Metering, Hourly Data 1994-2014_ [dataset]. version 1. Johannesburg: SANEDI [funders]. Cape Town: UCT [producers], 2014. Cape Town: DataFirst [distributor], 2019. doi:<a href="https://doi.org/10.25828/56nh-fw77" target="_blank">10.25828/56nh-fw77</a> 
+* Toussaint, Wiebke. _Domestic Electrical Load Survey - Key Variables 1994-2014_ [dataset]. version 1. Johannesburg: SANEDI [funders]. Cape Town: UCT Energy Research Centre [producers], 2014. Cape Town: DataFirst [distributor], 2019. doi:<a href="https://doi.org/10.25828/mf8s-hh79" target="_blank">10.25828/mf8s-hh79</a> 
+* Eskom, Stellenbosch University, University of Cape Town. _Domestic Electrical Load Metering Data 1994-2014_ [dataset]. version 1. Johannesburg: Eskom, Cape Town: UCT, Stellenbosch: US [producers], 2014. Cape Town: DataFirst [distributor], 2019. doi:<a href="https://doi.org/10.25828/p3k7-r965" target="_blank">10.25828/p3k7-r965</a> 
 * Eskom, Stellenbosch University, University of Cape Town. _Domestic Electrical Load Survey 1994-2014_ [dataset]. version 1. Johannesburg: Eskom, Cape Town: UCT, Stellenbosch: US [producers], 2014. Cape Town: DataFirst [distributor], 2019. doi:<a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/755" target="_blank">10.25828/kzer-gd88</a> 
 * Eskom, Stellenbosch University, University of Cape Town. _Domestic Electrical Load Survey-Secure Data 1994-2014_ [dataset]. version 1. Johannesburg: Eskom, Cape Town: UCT, Stellenbosch: US [producers], 2014. Cape Town: DataFirst [distributor], 2019. doi:<a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/757" target="_blank">10.25828/7jtv-mc31</a> 
 
 ### Software
 * <a href="https://github.com/dssg/usal_echo_public" target="_blank">usal_echo</a>: python data science pipeline to automate echocardiogram analysis
-* Toussaint, Wiebke. _delretrieve_: Data Retrieval of the South African Domestic Electrical Load Study, version 1.01. Zenodo. <a href="https://doi.org/10.5281/zenodo.3605425" target="_blank">https://doi.org/10.5281/zenodo.3605425</a> (2019).
-* Toussaint, Wiebke. _delprocess_: Data Processing of the South African Domestic Electrical Load Study, version 1.01. Zenodo. <a href="https://doi.org/10.5281/zenodo.3605422" target="_blank">https://doi.org/10.5281/zenodo.3605422</a> (2019).
+* Toussaint, Wiebke. _delretrieve_: Data Retrieval of the South African Domestic Electrical Load Study, version 1.01. Zenodo.  doi:<a href="https://doi.org/10.5281/zenodo.3605425" target="_blank">10.5281/zenodo.3605425</a> (2019).
+* Toussaint, Wiebke. _delprocess_: Data Processing of the South African Domestic Electrical Load Study, version 1.01. Zenodo.  doi:<a href="https://doi.org/10.5281/zenodo.3605422" target="_blank">10.5281/zenodo.3605422</a> (2019).
 
 ---
 
