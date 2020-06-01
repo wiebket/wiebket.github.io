@@ -6,11 +6,11 @@ description:
 ---
 
 ## Publications
-* Toussaint, W. and Moodley, D. _Using competency questions to select optimal clustering structures for residential energy consumption patterns._ ICLR 2020 Workshop on Machine Learning in Real Life (2020). [<a href="https://drive.google.com/file/d/12nU78laqMDkIuEKtLGJhAkjtAMd5TJwX/view" target="_blank">pdf</a>]
-* Toussaint, Wiebke _The Domestic Electrical Load (DEL) Study Datasets for South Africa._ doi:<a href="https://doi.org/10.25375/uct.11774691.v1" target="_blank">10.25375/uct.11774691.v1</a> (2020).
-* Toussaint, W. and Moodley, D. _Comparison of Clustering Techniques for Residential Load Profiles in South Africa._ Workshop Proceedings of the South African Forum for AI Research. CEUR-WS.org, online [CEUR-WS.org/Vol-1//Vol-2540/FAIR2019_paper_55.pdf](http://www.ceur-ws.org/Vol-2540/FAIR2019_paper_55.pdf) (2019).
-* Toussaint, Wiebke. _Evaluation of Clustering Techniques for Generating Household Energy Consumption Patterns in a Developing Country Context._ (2019). [[Masters thesis](https://open.uct.ac.za/handle/11427/30905)]
-* Toussaint, Wiebke. _Training engineerings for local engineering excellence._ Journal of Humanitarian Engineering 7, 1. doi:<a href="https://www.researchgate.net/publication/336662390_Journal_of_Humanitarian_Engineering_Guest_Editorial" target="_blank">10.36479/jhe.v7i1.159</a> (2019).
+* Toussaint, W. and Moodley, D. _Using competency questions to select optimal clustering structures for residential energy consumption patterns._ ICLR 2020 Workshop on Machine Learning in Real Life, 2020. URL <a href="https://drive.google.com/file/d/12nU78laqMDkIuEKtLGJhAkjtAMd5TJwX/view" target="_blank">pdf</a>.
+* Toussaint, Wiebke. _The Domestic Electrical Load (DEL) Study Datasets for South Africa._ 2020. doi:<a href="https://doi.org/10.25375/uct.11774691.v1" target="_blank">10.25375/uct.11774691.v1</a>.
+* Toussaint, W. and Moodley, D. _Comparison of Clustering Techniques for Residential Load Profiles in South Africa._ Proceedings of the South African Forum for AI Research, 2019. URL <a href="CEUR-WS.org/Vol-1//Vol-2540/FAIR2019_paper_55.pdf" target="_blank">CEUR-WS.org/Vol-1//Vol-2540/FAIR2019_paper_55.pdf</a>.
+* Toussaint, Wiebke. _Evaluation of Clustering Techniques for Generating Household Energy Consumption Patterns in a Developing Country Context._ 2019. URL <a href="http://hdl.handle.net/11427/30905" target="_blank">http://hdl.handle.net/11427/30905</a>. (Masters thesis)
+* Toussaint, Wiebke. _Training engineerings for local engineering excellence._ Journal of Humanitarian Engineering 7, 1. 2019. doi:<a href="https://www.researchgate.net/publication/336662390_Journal_of_Humanitarian_Engineering_Guest_Editorial" target="_blank">10.36479/jhe.v7i1.159</a>.
 
 ### Datasets
 * Toussaint, Wiebke. _Domestic Electrical Load Metering, Hourly Data 1994-2014_ [dataset]. version 1. Johannesburg: SANEDI [funders]. Cape Town: UCT [producers], 2014. Cape Town: DataFirst [distributor], 2019. doi:<a href="https://doi.org/10.25828/56nh-fw77" target="_blank">10.25828/56nh-fw77</a> 
