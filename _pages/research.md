@@ -6,7 +6,7 @@ description:
 ---
 
 ## Publications
-* Toussaint, W. and Moodley, D. _Using competency questions to select optimal clustering structures for residential energy consumption patterns._ ICLR 2020 Workshop on Machine Learning in Real Life, 2020. URL <a href="https://arxiv.org/abs/2006.00934" target="_blank">"https://arxiv.org/abs/2006.00934"</a>.
+* Toussaint, W. and Moodley, D. _Using competency questions to select optimal clustering structures for residential energy consumption patterns._ ICLR 2020 Workshop on Machine Learning in Real Life, 2020. URL <a href="https://arxiv.org/abs/2006.00934" target="_blank">https://arxiv.org/abs/2006.00934</a>.
 * Toussaint, Wiebke. _The Domestic Electrical Load (DEL) Study Datasets for South Africa._ 2020. doi:<a href="https://doi.org/10.25375/uct.11774691.v1" target="_blank">10.25375/uct.11774691.v1</a>.
 * Toussaint, W. and Moodley, D. _Comparison of Clustering Techniques for Residential Load Profiles in South Africa._ Proceedings of the South African Forum for AI Research, 2019. URL <a href="CEUR-WS.org/Vol-1//Vol-2540/FAIR2019_paper_55.pdf" target="_blank">CEUR-WS.org/Vol-1//Vol-2540/FAIR2019_paper_55.pdf</a>.
 * Toussaint, Wiebke. _Evaluation of Clustering Techniques for Generating Household Energy Consumption Patterns in a Developing Country Context._ 2019. URL <a href="http://hdl.handle.net/11427/30905" target="_blank">http://hdl.handle.net/11427/30905</a>. (Masters thesis)
