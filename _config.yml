@@ -9,7 +9,7 @@ footer_text: >
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: 2019
+last_updated: 2020
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -17,7 +17,7 @@ last_updated: 2019
 github_username: wiebket
 twitter_username: wiebketous
 linkedin_username: wiebketoussaint
-scholar_userid: # your Google Scholar ID
+scholar_userid: 5lI7pxsAAAAJ
 orcid_id: 0000-0002-9657-9509
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -67,7 +67,7 @@ collections:
     output: true
     permalink: /adventures/:path/
 
-news_limit: 5
+news_limit: 8
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
