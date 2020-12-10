@@ -5,17 +5,18 @@ title: Research
 description: 
 ---
 
-## Conference & Journal Papers
+## Publications
+### Conference & Journal Papers
 * Toussaint, W. and Ding, A. 2020. “Machine Learning Systems in the IoT: Trustworthiness Trade-offs for Edge Intelligence.” In Proceedings of the Second International Conference on Cognitive Machine Intelligence (CogMI). IEEE, 171-178. <a href="arXiv" target="_blank">https://arxiv.org/abs/2012.00419</a>
 * Toussaint, W. and Moodley, D. 2020. “Clustering Residential Electricity Consumption Data to Create Archetypes that Capture Household Behaviour in South Africa”. South African Computer Journal 32(2), 1–34. <a href="https://doi.org/10.18489/sacj.v32i2.845" target="_blank">https://doi.org/10.18489/sacj.v32i2.845</a>
 * Toussaint, W. and Moodley, D. 2020. “Identifying optimal clustering structures for residential energy consumption patterns using competency questions.” In Conference of the South African Institute of Computer Scientists and Information Technologists 2020 (SAICSIT '20). Association for Computing Machinery, New York, NY, USA, 66–73. <a href="https://doi.org/10.1145/3410886.3410887" target="_blank">https://doi.org/10.1145/3410886.3410887</a>
 * Toussaint, W. and Moodley, D. 2019. “Comparison of Clustering Techniques for Residential Load Profiles in South Africa.” In Proceedings of the South African Forum for AI Research. URL <a href="CEUR-WS.org/Vol-1//Vol-2540/FAIR2019_paper_55.pdf" target="_blank">CEUR-WS.org/Vol-1//Vol-2540/FAIR2019_paper_55.pdf</a>.
 
-## Workshop papers
+### Workshop papers
 * Wiebke Toussaint, Dave Van Veen, Courtney Irwin, Yoni Nachmany, Manuel Barreiro-Perez, Elena Díaz-Peláez, Sara Guerreiro de Sousa, Liliana Millán, Pedro L. Sánchez, Antonio Sánchez-Puente, Jesús Sampedro-Gómez, P. Ignacio Dorado-Díaz, Víctor Vicente-Palacios. 2020. “Design Considerations for High Impact, Automated Echocardiogram Analysis.” ICML 2020 Workshop on ML for Global Health. URL <a href="https://arxiv.org/abs/2006.06292" target="_blank">https://arxiv.org/abs/2006.06292</a>
 * Toussaint, W. and Moodley, D. 2020. “Using competency questions to select optimal clustering structures for residential energy consumption patterns.” ICLR 2020 Workshop on Machine Learning in Real Life. URL <a href="https://arxiv.org/abs/2006.00934" target="_blank">https://arxiv.org/abs/2006.00934</a>.
 
-## Other publications
+### Other publications
 * Toussaint, Wiebke. _The Domestic Electrical Load (DEL) Study Datasets for South Africa._ 2020. doi:<a href="https://doi.org/10.25375/uct.11774691.v1" target="_blank">10.25375/uct.11774691.v1</a>.
 * Toussaint, Wiebke. _Evaluation of Clustering Techniques for Generating Household Energy Consumption Patterns in a Developing Country Context._ 2019. URL <a href="http://hdl.handle.net/11427/30905" target="_blank">http://hdl.handle.net/11427/30905</a>. (Masters thesis)
 * Toussaint, Wiebke. _Training engineerings for local engineering excellence._ Journal of Humanitarian Engineering 7, 1. 2019. doi:<a href="https://www.researchgate.net/publication/336662390_Journal_of_Humanitarian_Engineering_Guest_Editorial" target="_blank">10.36479/jhe.v7i1.159</a>.
