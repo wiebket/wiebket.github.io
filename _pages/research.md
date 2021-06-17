@@ -38,11 +38,7 @@ description:
 ## Public Seminars, Workshops & Talks
 
 * __A primer on edge intelligence for smart grids__, _SAIEE National Conference_ Johannesburg, South Africa, 28 November 2019.
-* __Shedding light on residential energy consumer behaviour in South Africa__, _SAIEE Load Research Chapter Webinar_, 30 July 2019. <a href="https://youtu.be/ULBfbPN5i7I" target="_blank">[video]</a>   
-* __Evaluation of clustering techniques for generating household energy consumption patterns in a developing country__, _eResearch Africa 2019_, Cape Town, South Africa, 18 April 2019.
 * __Unsupervised Machine Learning 101__, _Deep Learning IndabaX_, Durban, South Africa, 16 April 2019. <a href="https://youtu.be/E-Q9PWs2SCk" target="_blank">[video]</a>  
-* __Building, managing and maintaining data and knowledge-sharing ecosystems for medium-sized research centres__, _SciDataCon-IDW 2018_, Gaberone, Botswana, 6 November 2018.  
-* __Workshop on Domestic Load Research__, _Domestic Use of Energy Conference_, Cape Town, South Africa, 4 April 2018.
 * __ckan + R: workflows for data retrieval and archiving__, _satRday 2018_, Cape Town, South Africa, 17 March 2018. <a href="https://youtu.be/qNQKX9FFcRU" target="_blank">[video]</a>
 
 ---

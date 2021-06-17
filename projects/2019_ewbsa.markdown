@@ -23,6 +23,24 @@ Engineering Information Foundation
 
 <div class="img_row">
     <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa2.jpg" alt="" title="example image"/>
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/ewbsa3.jpg" alt="" title="example image"/>
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/ewbsa4.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa3.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa4.jpg" alt="" title="example image"/>
+</div>
+
+<div class="img_row">
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa5.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa6.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa7.jpg" alt="" title="example image"/>
+</div>
+
+<div class="img_row">
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa8.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa9.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa10.jpg" alt="" title="example image"/>
+</div>
+
+<div class="img_row">
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa11.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa12.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa1.jpg" alt="" title="example image"/>
 </div>
