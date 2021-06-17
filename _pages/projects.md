@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: Projects
-description: 
+description:
 ---
 
 [<img class="col one first" style="padding-left: 20px; padding-right: 20px; float: left" src="{{ site.baseurl }}/assets/img/zenofml_poster.png" >]()
@@ -15,7 +15,7 @@ The <a href="https://www.zenofml.org/" target="_blank">Zen of Machine Learning</
 
 [<img class="col one first" style="padding-left: 20px; padding-right: 20px; float: left" src="{{ site.baseurl }}/assets/img/del_logo.png" >](../projects/2019_household_energy_insights.markdown)
 
-## Big Data for Household Energy Insights
+## [Big Data for Household Energy Insights](../projects/2019_household_energy_insights.markdown)
 
 The Big Data for Household Energy Insights project is housed at the Energy Research Centre at the University of Cape Town. The goals of the project are to provide strategic support and leadership to convene and mobilise key stakeholders towards building big data capabilities for domestic load research, and to deliver technical data science and stewardship activities in this regard. The project has delivered South Africa's first online datasets of <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/NRSLR/about" target="_blank">Domestic Electrical Load</a> (DEL) studies.
 
