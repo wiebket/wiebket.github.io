@@ -15,32 +15,21 @@ Alcoa Foundation (via EWB-I)
 Engineering Information Foundation  
 \#cocreateSA  
 
-### Featured in:  
-<a href="https://www.news.uct.ac.za/article/-2015-09-28-engineers-who-break-the-mould" target="_blank">UCT News</a>  
-<a href="https://issuu.com/risingstarannual/docs/risingstar_annual_2016/48" target="_blank">Rising Star Annual 2016</a>
-
-
-
 <div class="img_row">
     <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa2.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa5.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa11.jpg" alt="" title="example image"/>
+</div>
+
+<div class="img_row">
     <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa3.jpg" alt="" title="example image"/>
     <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa4.jpg" alt="" title="example image"/>
-</div>
-
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa5.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa7.jpg" alt="" title="example image"/>
-</div>
-
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa8.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa9.jpg" alt="" title="example image"/>
     <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa10.jpg" alt="" title="example image"/>
 </div>
 
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa11.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa6.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa7.jpg" alt="" title="example image"/>
     <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa12.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/ewbsa1.jpg" alt="" title="example image"/>
 </div>
+
