@@ -14,7 +14,7 @@ Between 2019 to 2021, Data4MIA has provided 120 engineering students in 3 co-hor
 
 ### Description
 
-[<img class="col one first" style="float: right" src="{{ site.baseurl }}/assets/img/2019-06_Data4WASI_impact.png" >]()
+[<img class="col one first"  style="padding-left: 20px; padding-right: 20px; float: right" src="{{ site.baseurl }}/assets/img/2019-06_Data4WASI_impact.png" >]()
 
 Data for Municipal Infrastructure Assets (Data4MIA) aims to address the critical state of South Africa's municipal infrastructure, in particular water and sanitation services. South African Municipalities have been facing severe challenges in delivering infrastructure and associated services that meet their residents' needs. The reasons are complex and include a shortage of skilled technical professionals such as engineers and project managers, difficult work environments and poor data capturing practices. Very few municipalities collect the data necessary for effective operations, maintenance and planning of infrastructure. 
 
@@ -28,5 +28,5 @@ Data4MIA is a student internship programme that has been designed to assist loca
 <a href="https://www.shuttleworthfoundation.org/fellows/flash-grants/" target="_blank">Shuttleworth Foundation Flash Grant</a>
 
 #### Featured in 
-UCT News 2021-03-04: <a href="https://www.news.uct.ac.za/article/-2021-03-04-win-win-for-municipalities-and-engineering-students-professional-skills" target="_blank">Win-win for municipalities and engineering students’ professional skills</a>
+UCT News 2021-03-04: <a href="https://www.news.uct.ac.za/article/-2021-03-04-win-win-for-municipalities-and-engineering-students-professional-skills" target="_blank">Win-win for municipalities and engineering students’ professional skills</a>  
 UCT News 2019-09-21: <a href="https://www.news.uct.ac.za/article/-2019-08-21-ebe-students-ultimate-community-development-work" target="_blank">EBE students’ ‘ultimate community development work’</a>

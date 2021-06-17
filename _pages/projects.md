@@ -5,7 +5,7 @@ title: Projects
 description:
 ---
 
-[<img class="col one first" style="padding-left: 20px; padding-right: 20px; float: left" src="{{ site.baseurl }}/assets/img/zenofml_poster_smaller.png" >]()
+[<img class="col one first" style="padding-left: 20px; padding-right: 20px; float: left" src="{{ site.baseurl }}/assets/img/zenofml_poster.png" >]()
 
 ## Zen of Machine Learning
 
@@ -17,7 +17,7 @@ The <a href="https://www.zenofml.org/" target="_blank">Zen of Machine Learning</
 
 ## [Big Data for Household Energy Insights](../projects/2019_household_energy_insights.markdown)
 
-The Big Data for Household Energy Insights project is housed at the Energy Research Centre at the University of Cape Town. The goals of the project are to provide strategic support and leadership to convene and mobilise key stakeholders towards building big data capabilities for domestic load research, and to deliver technical data science and stewardship activities in this regard. The project has delivered South Africa's first online datasets of <a href="https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/NRSLR/about" target="_blank">Domestic Electrical Load</a> (DEL) studies.
+The Big Data for Household Energy Insights project is housed at the Energy Research Centre at the University of Cape Town. The goals of the project are to provide strategic support and leadership to convene and mobilise key stakeholders towards building big data capabilities for domestic load research, and to deliver technical data science and stewardship activities in this regard. The project has delivered South Africa's first online datasets of Domestic Electrical Load (DEL) studies.
 
 ---
 
@@ -33,7 +33,7 @@ Data for Municipal Infrastructure Assets (Data4MIA) is a student internship prog
 
 ## [Engineers Without Borders South Africa](../projects/2019_ewbsa.markdown)
 
-<a href="https://www.ewbsa.org" target="_blank">Engineers Without Borders South Africa</a> (EWB-SA) is a non-profit organisation established in 2013 with a mission to empower engineers to empower communities. Since its establishment, EWB-SA has been focused on delivering programmes for youth leadership and engineering education, as well as social impact projects through our national chapter network. In 2018 EWB-SA established a unique partnership with EWB-UK and EWB-USA to collaborate on expanding the <a href="https://www.ewb-uk.org/the-work/design-challenges/engineering-for-people-design-challenge/" target="_blank">Engineering for People Design Challenge</a> to an international audience while delivering a first-of-its-kind engineering education curriculum transformation programme to South African universities.
+Engineers Without Borders South Africa (EWB-SA) is a non-profit organisation established in 2013 with a mission to empower engineers to empower communities. Since its establishment, EWB-SA has been focused on delivering programmes for youth leadership and engineering education, as well as social impact projects through our national chapter network. Over the last decade EWB-SA has impacted hundreds of engineering students in South Africa, and has made significant contributions to engineering curriculum transformation.
 
 ---
 
