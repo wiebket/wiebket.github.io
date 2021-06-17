@@ -5,7 +5,7 @@ title: Projects
 description:
 ---
 
-[<img class="col one first" style="padding-left: 20px; padding-right: 20px; float: left" src="{{ site.baseurl }}/assets/img/zenofml_poster.png" >]()
+<a href="https://www.zenofml.org/" target="_blank"><img class="col one first" style="padding-left: 20px; padding-right: 20px; float: left" src="{{ site.baseurl }}/assets/img/zenofml_poster.png" ></a>
 
 ## Zen of Machine Learning
 
