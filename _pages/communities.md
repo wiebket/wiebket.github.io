@@ -27,6 +27,8 @@ The <a href="https://www.africaleadership.net/about/young-africa-leadership-init
 ---
 
 ## Public Seminars, Workshops and Invited Talks
+* __Building trusworthy AI with Mozilla__, _Panelist at Women in AI Ethics Rethink AI Summit_, Online, 25 May 2021. <a href="https://youtu.be/CugSt2VtBQw?t=5" target="_blank">[video]</a>
+* __Reimagining Smart Cities in Africa Webinar__, _Panelist at ICLEI Africa: Reimagining the smart city: an African way_, Online, 23 Feb 2021.
 * __A primer on edge intelligence for smart grids__, _SAIEE National Conference_ Johannesburg, South Africa, 28 Nov 2019.
 * __Unsupervised Machine Learning 101__, _Deep Learning IndabaX_, Durban, South Africa, 16 April 2019. <a href="https://youtu.be/E-Q9PWs2SCk" target="_blank">[video]</a>  
 * __DataHack for Financial Inclusion__, _Keynote at Launch_, Cape Town, South Africa, 10 April 2019.

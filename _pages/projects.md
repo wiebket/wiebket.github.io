@@ -9,7 +9,7 @@ description:
 
 ## Zen of Machine Learning
 
-The <a href="https://www.zenofml.org/" target="_blank">Zen of Machine Learning</a> is a project of the <a href="https://www.mozillafestival.org/en/get-involved/building-trustworthy-ai-working-group/" target="_blank">Mozilla Trustworthy AI</a> Working Group. The Zen of ML is a set of design principles that helps ML educators and self-learners prioritise responsible machine learning practices. The principles consider the end-to-end machine learning development cycle, from data collection to model evaluation and continuous deployment. Inspired by the Zen of Python, the Zen of ML can be viewed as a culture code that promotes the responsible development of ML products and projects. It is not binding or enforceable, but is intended to shape industry norms and offer a practical guide to building trustworthy AI. 
+The <a href="https://www.zenofml.org/" target="_blank">Zen of Machine Learning</a> (ML) is a project of the <a href="https://www.mozillafestival.org/en/get-involved/building-trustworthy-ai-working-group/" target="_blank">Mozilla Trustworthy AI</a> Working Group. The Zen of ML is a set of design principles that helps ML educators and self-learners prioritise responsible machine learning practices. The principles consider the end-to-end machine learning development cycle, from data collection to model evaluation and continuous deployment. Inspired by the Zen of Python, the Zen of ML can be viewed as a culture code that promotes the responsible development of ML products and projects. It is not binding or enforceable, but is intended to shape industry norms and offer a practical guide to building trustworthy AI. 
 
 ---
 

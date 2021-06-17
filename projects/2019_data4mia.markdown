@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data for Municipal Infrastructure Assets
-description: Collecting and leveraging data for key decision making about municipal infrastructure
+description: Collecting and leveraging data to support key decision making about municipal infrastructure
 img:
 ---
 
