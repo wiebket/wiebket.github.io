@@ -26,7 +26,9 @@ The <a href="https://www.africaleadership.net/about/young-africa-leadership-init
 
 ---
 
-## Invited Talks
+## Public Seminars, Workshops and Invited Talks
+* __A primer on edge intelligence for smart grids__, _SAIEE National Conference_ Johannesburg, South Africa, 28 November 2019.
+* __Unsupervised Machine Learning 101__, _Deep Learning IndabaX_, Durban, South Africa, 16 April 2019. <a href="https://youtu.be/E-Q9PWs2SCk" target="_blank">[video]</a>  
 * __DataHack for Financial Inclusion__, _Keynote at Launch_, Cape Town, South Africa, 10 April 2019.
 * __AI+Blockchain for Social Impact Training__, _Facilitator_, Cape Town, South Africa, 5 March 2019.
 * __Africa Business Media Innovators Conference__, _Workshop presenter on Data Science_, Victoria Falls, Zambia, 19 November 2018.
@@ -34,6 +36,7 @@ The <a href="https://www.africaleadership.net/about/young-africa-leadership-init
 * __AI Expo Africa__, _Moderator for Case Studies Track_, Cape Town, South Africa, 9-11 September 2018. <a href="https://youtu.be/Pj1BUZu7cBQ" target="_blank">[video]</a>
 * __Namibia Engineering Week__, _Speaker_, Windhoek, Namibia, 10 August 2018.
 * __City.AI Inaugural Event__, _Panelist on Implications and Impact of AI_, Cape Town, South Africa, 27 March 2018.
+* __ckan + R: workflows for data retrieval and archiving__, _satRday 2018_, Cape Town, South Africa, 17 March 2018. <a href="https://youtu.be/qNQKX9FFcRU" target="_blank">[video]</a>
 * __World Wide Web Foundation__, _Roundtable on Policies and Practices to ensure AI is for All_, Cape Town, South Africa, 6 November 2017.
 * __McKinsey Africa Digital Summit__, _Poster presentation of masters research_, Johannesburg, South Africa, 2017.
 * __Sustainability in the Resources Industry Summit__, _Panelist on Workforce of the future_, Johannesburg, South Africa, 29-30 September 2015.

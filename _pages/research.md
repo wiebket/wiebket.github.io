@@ -30,23 +30,16 @@ description:
 
 ### Software
 * <a href="https://github.com/dssg/usal_echo_public" target="_blank">usal_echo</a>: python data science pipeline to automate echocardiogram analysis
+* <a href="https://github.com/wiebket/delarchetypes" target="_blank">delarchetypes</a>: python library for constructing South African residential electricity consumer archetypes from the Domestic Electrical Load Study data
 * Toussaint, Wiebke. _delretrieve_: Data Retrieval of the South African Domestic Electrical Load Study, version 1.01. Zenodo.  doi:<a href="https://doi.org/10.5281/zenodo.3605425" target="_blank">10.5281/zenodo.3605425</a> (2019).
 * Toussaint, Wiebke. _delprocess_: Data Processing of the South African Domestic Electrical Load Study, version 1.01. Zenodo.  doi:<a href="https://doi.org/10.5281/zenodo.3605422" target="_blank">10.5281/zenodo.3605422</a> (2019).
 
 ---
 
-## Public Seminars, Workshops & Talks
-
-* __A primer on edge intelligence for smart grids__, _SAIEE National Conference_ Johannesburg, South Africa, 28 November 2019.
-* __Unsupervised Machine Learning 101__, _Deep Learning IndabaX_, Durban, South Africa, 16 April 2019. <a href="https://youtu.be/E-Q9PWs2SCk" target="_blank">[video]</a>  
-* __ckan + R: workflows for data retrieval and archiving__, _satRday 2018_, Cape Town, South Africa, 17 March 2018. <a href="https://youtu.be/qNQKX9FFcRU" target="_blank">[video]</a>
-
----
-
 ## Summer/Winter Schools
 
-* __2018__: <a href="https://seams-workshop.gitlab.io/participants/2018/" target="_blank">Software Engineering for Applied Mathematical Sciences</a>, Cape Town, South Africa.
-* __2018__: <a href="http://www.deeplearningindaba.com/" target="_blank">Deep Learning Indaba</a>, Stellenbosch, South Africa. <a href="../assets/pdf/2018_dlindaba_poster.pdf" target="_blank">[poster award]</a>
-* __2017__: <a href="http://www.deeplearningindaba.com/" target="_blank">Deep Learning Indaba</a>, Johannesburg, South Africa. 
+* __2018__: <a href="https://seams-workshop.gitlab.io/participants/dec2018/" target="_blank">Software Engineering for Applied Mathematical Sciences</a>, Cape Town, South Africa.
+* __2018__: <a href="http://www.deeplearningindaba.com/2018/" target="_blank">Deep Learning Indaba</a>, Stellenbosch, South Africa. <a href="../assets/pdf/2018_dlindaba_poster.pdf" target="_blank">[poster award]</a>
+* __2017__: <a href="http://www.deeplearningindaba.com/2017/" target="_blank">Deep Learning Indaba</a>, Johannesburg, South Africa. 
 * __2016__: <a href="https://inscida.wixsite.com/inscida2016" target="_blank">Workshop on Statistics and Data Science in Industry</a>, Cape Town, South Africa.
 
