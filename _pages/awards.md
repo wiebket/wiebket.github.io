@@ -15,7 +15,15 @@ description:
 
 ---
 
+## Conference and Travel Awards
+
+* __2020__: *Student Travel Grant*, KDD
+* __2020__: *Local Award*, Machine Learning in Real Life Workshop @ ICLR
+ 
+---
+
 ## Industry Awards
+* __2020:__ _EdgeX Foundry Ideation Challenge Second place_, Linux Foundation
 * __2014:__ _Special Alumni Award_, Faculty of Engineering & the Built Environment, University of Cape Town
 * __2014:__ _Rising Star Award Winner_, Public & Private Services category
 * __2013:__ _Global Award - Knowledge Management_, Hatch Consulting Engineering
