@@ -5,11 +5,14 @@ title: Projects
 description:
 ---
 
-[<img class="col one first" style="padding-left: 15px; padding-right: 15px; float: left" src="{{ site.baseurl }}/assets/img/mic_logo.jpg" >](../projects/2022_faireva.markdown)
+[<img class="col one first" style="padding-left: 35px; padding-right: 35px; float: left" src="{{ site.baseurl }}/assets/img/mic_logo.jpg" >](../projects/2022_faireva.markdown)
 
 ## [Fair EVA](../projects/2022_faireva.markdown)
 
 <a href="https://www.faireva.org/" target="_blank">Fair EVA</a> is an open source project that is gathering resources and building tools to help researchers and developers, technology activists and voice technology users evaluate and audit bias and discrimination in voice technologies.
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 ---
 
@@ -37,7 +40,7 @@ Data for Municipal Infrastructure Assets (Data4MIA) is a student internship prog
 
 ---
 
-[<img class="col one first" style="padding-left: 20px; padding-right: 20px; float: left" src="{{ site.baseurl }}/assets/img/ewbsa_logo.png" >](../projects/2019_ewbsa.markdown)
+[<img class="col one first" style="padding-left: 35px; padding-right: 35px; float: left" src="{{ site.baseurl }}/assets/img/ewbsa_logo.png" >](../projects/2019_ewbsa.markdown)
 
 ## [Engineers Without Borders South Africa](../projects/2019_ewbsa.markdown)
 
