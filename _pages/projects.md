@@ -5,6 +5,14 @@ title: Projects
 description:
 ---
 
+[<img class="col one first" style="padding-left: 25px; padding-right: 25px; float: left" src="{{ site.baseurl }}/assets/img/mic_logo.png" >](../projects/2022_faireva.markdown)
+
+## [Fair EVA](../projects/2022_faireva.markdown)
+
+Fair EVA is an open source project that is gathering resources and building tools to help researchers and developers, technology activists and voice technology users evaluate and audit bias and discrimination in voice technologies.
+
+---
+
 <a href="https://www.zenofml.org/" target="_blank"><img class="col one first" style="padding-left: 20px; padding-right: 20px; float: left" src="{{ site.baseurl }}/assets/img/zenofml_poster.png" ></a>
 
 ## Zen of Machine Learning
@@ -29,7 +37,7 @@ Data for Municipal Infrastructure Assets (Data4MIA) is a student internship prog
 
 ---
 
-[<img class="col one first" style="padding-left: 30px; padding-right: 30px; float: left" src="{{ site.baseurl }}/assets/img/ewbsa_logo.png" >](../projects/2019_ewbsa.markdown)
+[<img class="col one first" style="padding-left: 25px; padding-right: 25px; float: left" src="{{ site.baseurl }}/assets/img/ewbsa_logo.png" >](../projects/2019_ewbsa.markdown)
 
 ## [Engineers Without Borders South Africa](../projects/2019_ewbsa.markdown)
 
