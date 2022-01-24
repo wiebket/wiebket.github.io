@@ -9,7 +9,7 @@ description:
 
 ## [Fair EVA](../projects/2022_faireva.markdown)
 
-Fair EVA is an open source project that is gathering resources and building tools to help researchers and developers, technology activists and voice technology users evaluate and audit bias and discrimination in voice technologies.
+<a href="https://www.faireva.org/" target="_blank">Fair EVA</a> is an open source project that is gathering resources and building tools to help researchers and developers, technology activists and voice technology users evaluate and audit bias and discrimination in voice technologies.
 
 ---
 
