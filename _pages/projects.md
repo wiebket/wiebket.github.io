@@ -5,7 +5,7 @@ title: Projects
 description:
 ---
 
-[<img class="col one first" style="padding-left: 25px; padding-right: 25px; float: left" src="{{ site.baseurl }}/assets/img/mic_logo.jpg" >](../projects/2022_faireva.markdown)
+[<img class="col one first" style="padding-left: 15px; padding-right: 15px; float: left" src="{{ site.baseurl }}/assets/img/mic_logo.jpg" >](../projects/2022_faireva.markdown)
 
 ## [Fair EVA](../projects/2022_faireva.markdown)
 
@@ -37,7 +37,7 @@ Data for Municipal Infrastructure Assets (Data4MIA) is a student internship prog
 
 ---
 
-[<img class="col one first" style="padding-left: 25px; padding-right: 25px; float: left" src="{{ site.baseurl }}/assets/img/ewbsa_logo.png" >](../projects/2019_ewbsa.markdown)
+[<img class="col one first" style="padding-left: 20px; padding-right: 20px; float: left" src="{{ site.baseurl }}/assets/img/ewbsa_logo.png" >](../projects/2019_ewbsa.markdown)
 
 ## [Engineers Without Borders South Africa](../projects/2019_ewbsa.markdown)
 
