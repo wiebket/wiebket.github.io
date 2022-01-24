@@ -5,7 +5,7 @@ title: Projects
 description:
 ---
 
-[<img class="col one first" style="padding-left: 35px; padding-right: 35px; float: left" src="{{ site.baseurl }}/assets/img/mic_logo.jpg" >](../projects/2022_faireva.markdown)
+[<img class="col one first" style="padding-left: 40px; padding-right: 40px; float: left" src="{{ site.baseurl }}/assets/img/mic_logo.jpg" >](../projects/2022_faireva.markdown)
 
 ## [Fair EVA](../projects/2022_faireva.markdown)
 Fair EVA is an open source project that is gathering resources and building tools to help researchers and developers, technology activists and voice technology users evaluate and audit bias and discrimination in voice technologies.
@@ -43,6 +43,7 @@ Data for Municipal Infrastructure Assets (Data4MIA) is a student internship prog
 ## [Engineers Without Borders South Africa](../projects/2019_ewbsa.markdown)
 
 Engineers Without Borders South Africa (EWB-SA) is a non-profit organisation established in 2013 with a mission to empower engineers to empower communities. Since its establishment, EWB-SA has been focused on delivering programmes for youth leadership and engineering education, as well as social impact projects through our national chapter network. Over the last decade EWB-SA has impacted hundreds of engineering students in South Africa, and has made significant contributions to engineering curriculum transformation.
+<br/><br/>
 
 ---
 
