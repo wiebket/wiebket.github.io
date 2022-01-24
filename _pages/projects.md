@@ -5,12 +5,10 @@ title: Projects
 description:
 ---
 
-[<img class="col one first" style="padding-left: 35px; padding-right: 35px; float: left" src="{{ site.baseurl }}/assets/img/mic_logo.jpg" >](../projects/2022_faireva.markdown)
+[<img class="col one first" style="padding-left: 30px; padding-right: 30px; float: left" src="{{ site.baseurl }}/assets/img/mic_logo.jpg" >](../projects/2022_faireva.markdown)
 
 ## [Fair EVA](../projects/2022_faireva.markdown)
-
-<a href="https://www.faireva.org/" target="_blank">Fair EVA</a> is an open source project that is gathering resources and building tools to help researchers and developers, technology activists and voice technology users evaluate and audit bias and discrimination in voice technologies.
-<br/><br/>
+Fair EVA is an open source project that is gathering resources and building tools to help researchers and developers, technology activists and voice technology users evaluate and audit bias and discrimination in voice technologies.
 <br/><br/>
 <br/><br/>
 
