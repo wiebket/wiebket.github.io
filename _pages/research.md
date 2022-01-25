@@ -7,7 +7,7 @@ description:
 
 ## Publications
 ### Conference & Journal Papers
-* Toussaint, W and Ding, A. Y. 2022. “Bias in Automated Speaker Recognition.” [submitted for review]
+* Toussaint, W and Ding, A. Y. 2022. “Bias in Automated Speaker Recognition.” [submitted for review] <a href="https://arxiv.org/abs/2201.09486" target="_blank">https://arxiv.org/abs/2201.09486</a> 
 * Toussaint, W., Mathur, A., Ding, A. Y., Kawsar, F. 2022. “Tiny, always-on and fragile: Bias propagation through design choices in on-device machine learning workflows.” [submitted for review] <a href="https://arxiv.org/abs/2201.07677" target="_blank">https://arxiv.org/abs/2201.07677</a> 
 * W. Toussaint and A. Y. Ding, "Machine Learning Systems in the IoT: Trustworthiness Trade-offs for Edge Intelligence," 2020 IEEE Second International Conference on Cognitive Machine Intelligence (CogMI), 2020, pp. 177-184, <a href="https://doi.org/10.1109/CogMI50398.2020.00030" target="_blank">https://doi.org/10.1109/CogMI50398.2020.00030</a>
 * Toussaint, W. and Moodley, D. 2020. “Clustering Residential Electricity Consumption Data to Create Archetypes that Capture Household Behaviour in South Africa”. South African Computer Journal 32(2), 1–34. <a href="https://doi.org/10.18489/sacj.v32i2.845" target="_blank">https://doi.org/10.18489/sacj.v32i2.845</a>
