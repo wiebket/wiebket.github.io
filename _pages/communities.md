@@ -23,6 +23,7 @@ The <a href="https://www.africaleadership.net/about/young-africa-leadership-init
 ---
 
 ## Committees
+* __2022__: ML Efficiency Workshop Organising Team, Deep Learning Indaba (Tunis)
 * __2017 - 19__: Executive Committee, Engineers Without Borders International
 * __2013 - 19__: Board of Directors, Engineers Without Borders South Africa
 * __2018 - 19__: Organising Committee, R-Ladies Cape Town 
