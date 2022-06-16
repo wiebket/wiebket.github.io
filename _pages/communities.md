@@ -7,6 +7,9 @@ description:
 
 ## Fellowships
 
+### Diverse Intelligences Summer Institute Fellow
+The <a href="https://disi.org/about/" target="_blank">Diverse Intelligences Summer Institute</a> is building a vibrant network of early-career scholars who are devoted to bold, transdisciplinary inquiry into the origins, nature, and future of intelligences. I have been selected as a DISI fellow for the Summer 2022 programme. 
+
 ### Data Science for Social Good  
 The <a href="http://www.dssgfellowship.org/people/2019-fellows-mentors-imperial/" target="_blank">Data Science for Social Good</a> fellowship is one of the longest standing summer programmes to train data scientists to work on real-world problems with tangible social impact. I was part of the 2019 cohort of fellows hosted by Imperial College London and worked on a project using deep learning to analyse echocardiograms.
 
@@ -27,6 +30,7 @@ The <a href="https://www.africaleadership.net/about/young-africa-leadership-init
 ---
 
 ## Public Seminars, Workshops and Invited Talks
+* __Artificial Intelligence Act Workshop of the European Association for Biometrics__ _Presenter and Panelist_, Online, 14 June 2022.  
 * __Building trusworthy AI with Mozilla__, _Panelist at Women in AI Ethics Rethink AI Summit_, Online, 25 May 2021. <a href="https://youtu.be/CugSt2VtBQw?t=5" target="_blank">[video]</a>
 * __Reimagining Smart Cities in Africa Webinar__, _Panelist at ICLEI Africa: Reimagining the smart city: an African way_, Online, 23 Feb 2021.
 * __A primer on edge intelligence for smart grids__, _SAIEE National Conference_ Johannesburg, South Africa, 28 Nov 2019.
