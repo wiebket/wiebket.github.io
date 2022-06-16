@@ -7,7 +7,7 @@ description:
 
 ## Fellowships
 
-### Diverse Intelligences Summer Institute Fellow
+### Diverse Intelligences Summer Institute
 The <a href="https://disi.org/about/" target="_blank">Diverse Intelligences Summer Institute</a> is building a vibrant network of early-career scholars who are devoted to bold, transdisciplinary inquiry into the origins, nature, and future of intelligences. I have been selected as a DISI fellow for the Summer 2022 programme. 
 
 ### Data Science for Social Good  
