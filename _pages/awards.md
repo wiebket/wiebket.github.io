@@ -25,7 +25,7 @@ description:
 
 ## Industry Awards
 
-* __2022:__ _Mozilla Technology Fund_ Award Recipient for [FairEVA](https://wiebketoussaint.com/projects/2022_faireva/), Mozilla Foundation
+* __2022:__ _Mozilla Technology Fund Award Recipient_ for [FairEVA](https://wiebketoussaint.com/projects/2022_faireva/), Mozilla Foundation
 * __2020:__ _EdgeX Foundry Ideation Challenge Second place_, Linux Foundation
 * __2014:__ _Special Alumni Award_, Faculty of Engineering & the Built Environment, University of Cape Town
 * __2014:__ _Rising Star Award Winner_, Public & Private Services category
