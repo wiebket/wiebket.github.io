@@ -17,12 +17,15 @@ description:
 
 ## Conference and Travel Awards
 
-* __2020__: *Student Travel Grant*, KDD
+* __2022__: *Student Travel Grant*, ACM FAccT
+* __2020__: *Student Travel Grant*, ACM KDD
 * __2020__: *Local Award*, Machine Learning in Real Life Workshop @ ICLR
  
 ---
 
 ## Industry Awards
+
+* __2022:__ _Mozilla Technology Fund_ Award Recipient for [FairEVA](projects/2022_faireva.markdown)
 * __2020:__ _EdgeX Foundry Ideation Challenge Second place_, Linux Foundation
 * __2014:__ _Special Alumni Award_, Faculty of Engineering & the Built Environment, University of Cape Town
 * __2014:__ _Rising Star Award Winner_, Public & Private Services category
