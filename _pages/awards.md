@@ -17,6 +17,7 @@ description:
 
 ## Conference and Travel Awards
 
+* __2022__: *Travel Grant*, IEEE-WIE
 * __2022__: *Student Travel Grant*, ACM FAccT
 * __2020__: *Student Travel Grant*, ACM KDD
 * __2020__: *Local Award*, Machine Learning in Real Life Workshop @ ICLR
