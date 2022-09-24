@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: Wiebke Toussaint
+title: Wiebke (Toussaint) Hutiri
 description: 
 
 profile:
