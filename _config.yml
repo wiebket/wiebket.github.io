@@ -1,22 +1,22 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Wiebke Toussaint
+name: Wiebke Hutiri
 email: w.toussaint@tudelft.nl
 description: > # this means to ignore newlines until "url:"
-  Personal website of Wiebke Toussaint.
+  Personal website of Wiebke Hutiri.
 footer_text: >
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: 2021
+last_updated: 2023
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: wiebket
-twitter_username: wiebketous
-linkedin_username: wiebketoussaint
+twitter_username: wiebkehutiri
+linkedin_username: wiebkehutiri
 scholar_userid: #5lI7pxsAAAAJ
 orcid_id: #0000-0002-9657-9509
 medium_username: # your Medium username
