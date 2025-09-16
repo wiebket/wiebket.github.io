@@ -1,12 +1,12 @@
 ---
 layout: about
 permalink: /
-title: Wiebke (Toussaint) Hutiri
+title: Wiebke Hutiri (born Toussaint)
 description: 
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic.png
 
 news: false
 social: true
